@@ -1,2 +1,3 @@
 # hello-world
-LEarning to create reposetories
+Learning to create reposetories
+Mistakes were fixed!
